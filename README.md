@@ -14,4 +14,5 @@ My name is Jeremi.
 🧗 My other interests:
    - Rock Climbing
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IcemanJt&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IcemanJt&layout=compact&bg_color=ffffff)
+
