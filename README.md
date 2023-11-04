@@ -7,9 +7,9 @@ My name is Jeremi.
 🧠 I'm passionate about Data Science, Data Analysis, AI, and Machine Learning.
 
 💬 Programming Languages:
-          - 🐍 Python 
-          - C++ 
-          - Java 
+- 🐍 Python 
+- C++ 
+- Java 
 
 🧗 My other interests:
    - Rock Climbing
