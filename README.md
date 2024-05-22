@@ -9,7 +9,6 @@ My name is Jeremi.
 💬 Programming Languages:
 - Python 🐍 
 - C++ 
-- Java 
 
 🧗 My other interests:
    - Rock Climbing
