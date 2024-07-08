@@ -4,7 +4,7 @@ My name is Jeremi.
 
 🎓 I'm a student of Jagiellonian University, majoring in Computer Science.
 
-🧠 I'm passionate about Data Science, Data Analysis, AI, and Data Bases.
+🧠 I'm passionate about Data Bases, Data Analysis and Data Science.
 
 💬 Programming Languages:
 - Python 🐍 
